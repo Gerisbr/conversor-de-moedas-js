@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(to top left, rgb(77, 73, 78), rgb(27, 63, 184));
+}
+
+html {
+    height: 100%;
+    
+}
+
+.container {
+    transform: translateY(30%);
+    border-radius: 10px;
+    background: rgb(133, 172, 231);
+    width: 500px;
+    height: 400px;
+    padding: 30px;
+}
+
+h1 {
+    color: rgb(11, 136, 238);
+}
+
+label {
+    margin: 8px 0px;
+    color: rgb(11, 102, 238);
+}
+
+input {
+    width: 100%;
+    margin: 10px 0px;
+    border: none;
+    border-bottom: 1px solid rgb(100, 0, 75);
+    outline: none;
+}
+
+button {
+    width: 100%;
+    margin: 10px 0px;
+    border: none;
+    border-radius: 7px;
+    height: 40px;
+    color: rgb(146, 201, 223);
+    background: linear-gradient(to top left, rgb(78, 100, 0), rgb(77, 202, 83));
+    text-transform: uppercase;
+}
+
+.resultado {
+    margin: 8px 0;
+    color: rgb(100, 14, 28);
+}

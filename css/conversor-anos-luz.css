@@ -1,0 +1,26 @@
+body {
+    background: url(/img/REAL\ E\ DOLAR.jfif);
+    background-position: center;
+    background-size: cover;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+h1 {
+    color: white;
+}
+
+input {
+    background: rgba(255, 255, 255, 0.5);
+    border: none;
+    height: 35px;
+}
+
+button {
+    background: rgba(255, 255, 255, 0.5);
+}
